@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Aarya-Kumar-Namdeo
+- 📫 Founder and Member of Akiya Private limited.
 - 👀 I’m interested in Python, c++ and web development
 - 🌱 I’m currently learning web development and pursuing B.tech
 - 💞️ I’m looking to collaborate on c++ and python projects
